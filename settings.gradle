@@ -1,0 +1,3 @@
+include ':app:intercomsdk'
+include ':app'
+rootProject.name = "NotificationIconTest"
